@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 96
+  controlID: 64
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 38
+  controlID: 65
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 39
+  controlID: 56
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -324,7 +324,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Plugins/Demigiant
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -332,16 +332,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Plugins/Demigiant
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Projects\Latter_M\Latter_M
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ca590000
-    m_LastClickedID: 22986
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_SelectedIDs: 0c5b0000
+    m_LastClickedID: 23308
+    m_ExpandedIDs: 00000000f45a0000085b00000c5b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -369,7 +369,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -396,7 +396,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000feca0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -509,9 +509,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 0c5b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: e485ffff18fbffff
+      m_ExpandedIDs: e4f5ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -919,7 +919,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.12880038, y: 0.02693594, z: -0.90085185}
     speed: 2
-    m_Value: {x: 0.12880038, y: 0.026935942, z: -0.90085185}
+    m_Value: {x: 0.12880038, y: 0.02693594, z: -0.90085185}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -957,7 +957,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -967,11 +967,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.5572001, y: -0.0020006543, z: 0.0013258861, w: 0.8303983}
     speed: 2
-    m_Value: {x: 0.55719036, y: -0.0010041706, z: 0.00065724243, w: 0.8303839}
+    m_Value: {x: 0.55718917, y: -0.0020006152, z: 0.0013258602, w: 0.8303821}
   m_Size:
     m_Target: 2.599676
     speed: 2
-    m_Value: 2.7221737
+    m_Value: 2.599676
   m_Ortho:
     m_Target: 0
     speed: 2
