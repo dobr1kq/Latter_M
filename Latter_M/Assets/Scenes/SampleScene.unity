@@ -177,8 +177,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 160656731}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &160656730 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 160656729}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &160656731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160656730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &189684195
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -234,8 +261,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 189684197}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &189684196 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 189684195}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &189684197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189684196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &277255602
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -291,8 +345,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 277255604}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &277255603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 277255602}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &277255604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 277255603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &431780996
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -348,8 +429,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 431780998}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &431780997 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 431780996}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &431780998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 431780997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1 &515441566
 GameObject:
   m_ObjectHideFlags: 0
@@ -605,8 +713,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 720148180}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &720148179 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 720148178}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &720148180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720148179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &769862357
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -662,8 +797,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 769862359}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &769862358 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 769862357}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &769862359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 769862358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &797574976
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -719,8 +881,57 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 797574979}
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 797574978}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &797574977 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 797574976}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &797574978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797574977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
+--- !u!114 &797574979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797574977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &801206956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -776,8 +987,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 801206958}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &801206957 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 801206956}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &801206958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 801206957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,8 +1163,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1098279396}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1098279395 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1098279394}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1098279396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1098279395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1171919966
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -982,8 +1247,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1171919968}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1171919967 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1171919966}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1171919968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171919967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1394425136
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1039,8 +1331,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1394425138}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1394425137 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1394425136}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1394425138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1394425137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1419505611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1096,8 +1415,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1419505613}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1419505612 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1419505611}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1419505613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419505612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1436759240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1153,8 +1499,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1436759242}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1436759241 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1436759240}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1436759242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436759241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1738280964
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1210,8 +1583,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1738280966}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1738280965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1738280964}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1738280966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1738280965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1819434635
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1267,8 +1667,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1819434637}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1819434636 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1819434635}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1819434637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819434636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &1947846961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1324,8 +1751,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1947846963}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &1947846962 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 1947846961}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1947846963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947846962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1001 &7317945223069298851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1381,8 +1835,35 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7317945223069298853}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+--- !u!1 &7317945223069298852 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
+  m_PrefabInstance: {fileID: 7317945223069298851}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7317945223069298853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7317945223069298852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationDuration: 1
+  rotationAngles: {x: 0, y: 360, z: 0}
+  rotationEase: 7
+  punchDuration: 0.5
+  punchStrength: {x: 1, y: 1, z: 1}
+  punchVibrato: 10
+  punchElasticity: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
