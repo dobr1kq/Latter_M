@@ -10,11 +10,10 @@ public class Rotate_and_Scale : MonoBehaviour
     [SerializeField] private Vector3 rotationAngles = new Vector3(0, 360, 0);
     [SerializeField] private Ease rotationEase = Ease.InOutQuad;
 
-    [Header("Punch Scale Settings")]
-    [SerializeField] private float punchDuration = 0.5f;
-    [SerializeField] private Vector3 punchStrength = new Vector3(1, 1, 1);
-    [SerializeField] private int punchVibrato = 10;
-    [SerializeField] private float punchElasticity = 1;
+    [SerializeField] private float punchDuration = 1f;
+    [SerializeField] private Vector3 punchStrength = new Vector3(0.5f, 0.5f, 0.5f);
+    [SerializeField] private int punchVibrato = 6;
+    [SerializeField] private float punchElasticity = 0.5f;
 
     void Update()
     {

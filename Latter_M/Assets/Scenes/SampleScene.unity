@@ -202,10 +202,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &189684195
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -286,10 +286,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &277255602
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -370,10 +370,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &431780996
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -454,10 +454,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1 &515441566
 GameObject:
   m_ObjectHideFlags: 0
@@ -738,10 +738,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &769862357
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -822,10 +822,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &797574976
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -885,34 +885,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
       insertIndex: -1
       addedObject: {fileID: 797574979}
-    - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 797574978}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
 --- !u!1 &797574977 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
   m_PrefabInstance: {fileID: 797574976}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &797574978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 797574977}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 434863579b7626e4dab3e1593e6a011f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rotationDuration: 1
-  rotationAngles: {x: 0, y: 360, z: 0}
-  rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
 --- !u!114 &797574979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -928,10 +906,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &801206956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1012,10 +990,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1101,8 +1079,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.70258474, y: -0, z: -0, w: 0.7116001}
-  m_LocalPosition: {x: 0, y: 5, z: 0}
+  m_LocalRotation: {x: 0.70258474, y: -0.000000037252903, z: -0, w: 0.7116002}
+  m_LocalPosition: {x: 0, y: 6.83, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1188,10 +1166,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1171919966
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1272,10 +1250,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1394425136
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1334,14 +1312,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1394425138}
+      addedObject: {fileID: 1394425143}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
 --- !u!1 &1394425137 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
   m_PrefabInstance: {fileID: 1394425136}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1394425138
+--- !u!114 &1394425143
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1356,10 +1334,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1419505611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1440,10 +1418,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1436759240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1524,10 +1502,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1738280964
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1586,14 +1564,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1738280966}
+      addedObject: {fileID: 1738280971}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
 --- !u!1 &1738280965 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
   m_PrefabInstance: {fileID: 1738280964}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1738280966
+--- !u!114 &1738280971
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1608,10 +1586,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1819434635
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1670,14 +1648,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1819434637}
+      addedObject: {fileID: 1819434642}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
 --- !u!1 &1819434636 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
   m_PrefabInstance: {fileID: 1819434635}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1819434637
+--- !u!114 &1819434642
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1692,10 +1670,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &1947846961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1776,10 +1754,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1001 &7317945223069298851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1838,14 +1816,14 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 7317945223069298853}
+      addedObject: {fileID: 7317945223069298858}
   m_SourcePrefab: {fileID: 100100000, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
 --- !u!1 &7317945223069298852 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 665178851915207981, guid: 5bbcce5b3935a9a498efd2e0b55e7b8e, type: 3}
   m_PrefabInstance: {fileID: 7317945223069298851}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &7317945223069298853
+--- !u!114 &7317945223069298858
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1860,10 +1838,10 @@ MonoBehaviour:
   rotationDuration: 1
   rotationAngles: {x: 0, y: 360, z: 0}
   rotationEase: 7
-  punchDuration: 0.5
-  punchStrength: {x: 1, y: 1, z: 1}
-  punchVibrato: 10
-  punchElasticity: 1
+  punchDuration: 1
+  punchStrength: {x: 0.5, y: 0.5, z: 0.5}
+  punchVibrato: 6
+  punchElasticity: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
