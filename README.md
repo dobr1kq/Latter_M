@@ -17,4 +17,4 @@
 - Повідомлення виводяться у консоль з кольоровим форматуванням.
 
 ### Відео:
-[Переглянути відео](https://drive.google.com/drive/u/1/home)
+[Переглянути відео](https://drive.google.com/file/d/1HzV6ZhRRiJBSERM8tN5XU5H_9CMUT9i_/view?usp=drive_link)
